@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[OCD Cleaners]]></title>
+        <description><![CDATA[OCD Cleaners]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 May 2016 05:00:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>OCD Cleaners Seattle</p>]]></description>
+            <link>undefinedocd-cleaners-seattle/index.html</link>
+            <guid isPermaLink="false">8219583f-3614-4e2e-8c48-c84e770b9b17</guid>
+            <pubDate>Mon, 16 May 2016 05:00:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
